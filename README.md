@@ -31,7 +31,7 @@ The dataset, sourced from the Microsoft Azure AI Gallery, contains:
 To set up the environment, run the following commands:
 ```bash
 # Clone the repository
-git clone https://github.com/nandhu83/predictive-maintenance.git
+git clone https://github.com/nandhu83/Predictive-Maintenance-For-Industrial-Equipment.git
 
 # Navigate to the project directory
 cd predictive-maintenance

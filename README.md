@@ -31,7 +31,7 @@ The dataset, sourced from the Microsoft Azure AI Gallery, contains:
 To set up the environment, run the following commands:
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/predictive-maintenance.git
+git clone https://github.com/nandhu83/predictive-maintenance.git
 
 # Navigate to the project directory
 cd predictive-maintenance
@@ -55,7 +55,7 @@ pip install -r requirements.txt
 ├── Dataset
 │   └── predictive_maintenance.csv
 ├── Notebook
-│   └── Data_Science_Final.ipynb
+│   └── Predictive Maintenance For Industrial Equipment.ipynb
 ├── Outputs
 │   ├── predictive_maintenance_with_warnings.csv
 │   └── predictive_maintenance_schedule.csv
@@ -68,7 +68,7 @@ pip install -r requirements.txt
 ## Usage
 1. **Open the Jupyter Notebook:**
 ```bash
-jupyter notebook Notebook/Data_Science_Final.ipynb
+jupyter notebook Notebook/Predictive Maintenance For Industrial Equipment.ipynb
 ```
 2. **Run the Cells Sequentially:**
    - Preprocessing the data
@@ -89,17 +89,3 @@ jupyter notebook Notebook/Data_Science_Final.ipynb
 - **Critical Risk**: Immediate action required.
 - **Moderate Risk**: Schedule maintenance.
 - **Low Risk**: Routine inspection.
-
-## Contributors
-- **Nandakumaran M** *(211701035)*
-- **Ramkishore S** *(211701043)*
-
-## License
-This project is licensed under the MIT License.
-
-## Acknowledgements
-We extend our gratitude to our faculty advisor and the Department of Computer Science and Design at Rajalakshmi Engineering College for their guidance throughout this project.
-
-**Supervisor**: Dr. Revathy P
-
-**Date**: November 2024

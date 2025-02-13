@@ -34,7 +34,7 @@ To set up the environment, run the following commands:
 git clone https://github.com/nandhu83/Predictive-Maintenance-For-Industrial-Equipment.git
 
 # Navigate to the project directory
-cd predictive-maintenance
+cd Predictive-Maintenance-For-Industrial-Equipment
 
 # Install dependencies
 pip install -r requirements.txt

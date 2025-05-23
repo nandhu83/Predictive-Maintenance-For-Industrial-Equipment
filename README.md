@@ -15,7 +15,7 @@ The dataset, sourced from the Microsoft Azure AI Gallery, contains:
 - **10,000 rows** with **10 columns**.
 - Includes machine operational settings, sensor readings (e.g., temperature, torque), and historical failure types.
 
-**Dataset Link:** [Download Dataset](https://drive.google.com/file/d/1ZZJr0QV2qkESW2qfhBn6BYBsIUUbooyJ/view?usp=sharing)
+**Dataset Link:** [Download Dataset](https://github.com/nandhu83/Predictive-Maintenance-For-Industrial-Equipment/blob/main/Datatset/predictive_maintenance.csv)
 
 ### Dataset Features
 - `UDI`: Unique record identifier
